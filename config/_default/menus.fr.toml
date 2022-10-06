@@ -1,23 +1,23 @@
   [[main]]
-  name = "Home"
+  name = "Accueil"
   identifier = "home"
   weight = 100
-  url = "/"
+  url = "/fr/"
 
   [[main]]
   name = "CV"
   weight = 400
   identifier = "cv"
-  url = "/cv/"
+  url = "/fr/cv/"
 
   [[main]]
   name = "Contact"
   weight = 600
   identifier = "contact"
-  url = "/contact/"
+  url = "/fr/contact/"
 
   [[footer]]
   name = "imprint"
   weight = 1
   identifier = "imprint"
-  url = "/imprint/"
+  url = "/fr/imprint/"
