@@ -2,7 +2,6 @@
 
 Information in accordance with the applicable law
 
-Jane Doe\
-Anatole Street 10\
-2016 GoHugo\
-Germany
+Jacques Kayser\
+46-48, rue d'Anvers\
+L-1130 Luxembourg
