@@ -66,9 +66,9 @@ title = "e-mail"
 url = "mailto:viscerale@chirurgie-zitha.lu"
 
 [[socialIcons]]
-icon = "fab fa-map-location-dot"
+icon = "fas fa-map-location-dot"
 title = "Address"
-url = "https://goo.gl/maps/s87bLtPE8SAz3h3t7
+url = "https://goo.gl/maps/s87bLtPE8SAz3h3t7"
 
 [mermaid]
 # enable = true
