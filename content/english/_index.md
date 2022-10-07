@@ -1,25 +1,20 @@
 +++
-author = "Hugo Authors"
+title = "Home"
+author = "Jacques Kayser"
 +++
 
-<!--
-This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
+![](static/images/inaction/opfull.jpg)
 
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
+## Poles de Competences
+* Chirurgie coelioscopique aussi appelée laparoscopique : jusqu’à 90% de la chirurgie abdominale est réalisée sous coelioscopie 
+* Chirurgie Cancérologique: jusqu’à 70 patients par an 
+* Résection du colon et du rectum : jusqu’à 100 patients par an 
+* Résection de la vésicule biliaire : jusqu’à 115 patients par an 
+* Cure hernie inguinale, Cure hernie ombilicaleet Cure éventration paroi abdominale,  Cure hernie hiatale : jusqu’à 240 patients par an
+* Proctologie (hémorroïdes, kyste pilonidal, fistule anale, prolapsus rectal) : jusqu’à 50 patients par an 
+* Intervention d’urgence pour occlusion, péritonite : jusqu’à 20 patients par an 
+* Hépatectomie : jusqu’à 11 patients par an 
+* Appendicectomie : jusqu’à 25 patients par an 
+* Résection de la Thyroïde 
 
-Markdown supported, ie:
-
-```
-# Welcome
-
-- Hugo :rocket:
-- Hugo theme :rocket:
-
-Don't forget to check the README.md file!
-```
-
-Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
--->
+![](../images/inaction/oprobot.jpg)

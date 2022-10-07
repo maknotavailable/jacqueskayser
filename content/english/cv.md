@@ -1,25 +1,40 @@
 +++
-title = "CV"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Jacques Kayser"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## FORMATION MÉDICALE 
+* Cours Universitaires en Médecine, Luxembourg, 1980-1981 
+* Universität des Saarlandes, Homburg /Saar, Allemagne, 1981-1987 
+* Approbation, mai 1987 
+* Promotion (Dr.med.), juin 1989 
 
-Hugo makes use of a variety of open source projects including:
+## FORMATION CHIRURGICALE 
+* Ancien interne des Hôpitaux de Singen/Hohentwiel (Université de Freiburg, Allemagne) 
+* Ancien interne des Hôpitaux  de Ludwigsburg (Université de Heidelberg, Allemagne)  
+* Ancien interne des Hôpitaux de l’Université Eberhard-Karl de Tübingen, Allemagne 
+* Ancien chef de clinique (Oberarzt) des Hôpitaux de Neuss, Lukaskrankenhaus (Université de Düsseldorf , Allemagne) 
+* Ancien “Senior Registrar” du Queen Elizabeth Hospital, Université d’Adelaide, South Australia, Australia 
+* Depuis le 1er aôut 1998, chirurgien viscéral auprès de la Clinique Ste Thérèse, [Zitha](https://www.hopitauxschuman.lu/fr/etablissement/zithaklinik/), Luxembourg  
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+## TITRES 
+* Promotion (Dr.med.), juin 1989 
+* Certificat de médecin spécialiste en Chirurgie Générale: décembre 1993 
+* Certificat de médecin spécialiste en Chirurgie Viscérale: septembre 1995 
+* Maître de stage pour la formation en chirurgie générale auprès de la Ärztekammer des Saarlandes et auprès de la Landesärtzekammer Rheinland-Pfalz (Allemagne) 
+* Maître de stage pour la formation en chirurgie viscérale auprès de la  Landesärtzekammer Rheinland-Pfalz (Allemagne) 
+* Maître de stage pour la formation de médecins généralistes auprès de l’Université de Luxembourg 
+* Maître de stage pour la formation en chirurgie a l'Universite de Louvain (UCL), Belgique 
+* Depuis 2009, Président de la Société de Chirurgie Viscérale Luxembourgeoise 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## LANGUES 
+* Luxembourgeois 
+* Français 
+* Allemand 
+* Anglais 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+ ![logo_glk](../images/logos/logo_glk.png)
+ ![logo_hrs](../images/logos/logo_hrs.jpg)
+ ![logo_klinikum-ludwigsburg](../images/logos/logo_klinikum-ludwigsburg.jpg)
+ ![logo_lukaskrankenhaus](../images/logos/logo_lukaskrankenhaus.png)
+ ![logo_sahealth](../images/logos/logo_sahealth.jpg)
+ ![logo_ukt](../images/logos/logo_ukt.gif)

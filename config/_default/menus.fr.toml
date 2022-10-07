@@ -5,7 +5,7 @@
   url = "/fr/"
 
   [[main]]
-  name = "CV"
+  name = "Curriculum Vitae"
   weight = 400
   identifier = "cv"
   url = "/fr/cv/"
