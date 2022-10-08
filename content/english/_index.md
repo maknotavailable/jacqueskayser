@@ -4,16 +4,14 @@ author = "Jacques Kayser"
 +++
 
 
-<table>
-  <tr>
-    <td></td>
-     <td></td>
-  </tr>
-  <tr>
-    <td><img src="./images/inaction/opfull.jpg" alt="opfull" height="400"/></td>
-    <td><img src="./images/inaction/opmanual.jpg" alt="opmanual" height="400"/></td>
-  </tr>
- </table>
+<div class="row">
+  <div class="column">
+     <img src="./images/inaction/opfull.jpg" alt="opfull" width="100%"/>
+  </div>
+  <div class="column">
+    <img src="./images/inaction/opmanual.jpg" alt="opmanual" width="100%"/>
+  </div>
+</div>
 
 
 ## Poles de Competences

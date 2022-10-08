@@ -5,12 +5,10 @@ description = "Chirurgie viscérale"
 profilePicture = "images/profile.jpg"
 keywords = "Jacques Kayser"
 favicon = "favicons/"
-# example ["css/custom.css"]
-customCss = []
-# example ["js/custom.js"]
+customCss = ["css/custom.css"]
 customJs = [] 
-mainSections = [""]
-images = [""]
+mainSections = []
+images = []
 doNotLoadAnimations = true
 
 # Google Fonts
