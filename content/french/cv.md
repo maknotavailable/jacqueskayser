@@ -2,6 +2,32 @@
 author = "Jacques Kayser"
 +++
 
+<div class="row">
+  <div class="column">
+    <img src="../images/logos/logo_ukt.gif" width="50%"/>
+  </div>
+  <div class="column">
+    <img src="../images/logos/logo_hrs.jpg" width="50%"/>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="../images/logos/logo_lukaskrankenhaus.png"  width="50%"/>
+  </div>
+  <div class="column">
+     <img src="../images/logos/logo_klinikum-ludwigsburg.jpg" width="50%"/>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+     <img src="../images/logos/logo_sahealth.png" width="50%"/>
+  </div>
+  <div class="column">
+     <img src="../images/logos/logo_glk.png" width="50%"/>
+  </div>
+</div>
+
+
 ## FORMATION MÉDICALE 
 * Cours Universitaires en Médecine, Luxembourg, 1980-1981 
 * Universität des Saarlandes, Homburg /Saar, Allemagne, 1981-1987 
@@ -31,10 +57,3 @@ author = "Jacques Kayser"
 * Français 
 * Allemand 
 * Anglais 
-
- ![logo_glk](../images/logos/logo_glk.png)
- ![logo_hrs](../images/logos/logo_hrs.jpg)
- ![logo_klinikum-ludwigsburg](../images/logos/logo_klinikum-ludwigsburg.jpg)
- ![logo_lukaskrankenhaus](../images/logos/logo_lukaskrankenhaus.png)
- ![logo_sahealth](../images/logos/logo_sahealth.jpg)
- ![logo_ukt](../images/logos/logo_ukt.gif)
