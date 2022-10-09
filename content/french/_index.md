@@ -3,7 +3,6 @@ title = "Home"
 author = "Jacques Kayser"
 +++
 
-
 <div class="row">
   <div class="column">
      <img src="./images/inaction/opfull.jpg" alt="opfull" width="100%"/>
@@ -13,18 +12,18 @@ author = "Jacques Kayser"
   </div>
 </div>
 
-
-## Poles de Competences
-* Chirurgie coelioscopique aussi appelée laparoscopique : jusqu’à 90% de la chirurgie abdominale est réalisée sous coelioscopie 
-* Chirurgie Cancérologique: jusqu’à 70 patients par an 
-* Résection du colon et du rectum : jusqu’à 100 patients par an 
-* Résection de la vésicule biliaire : jusqu’à 115 patients par an 
-* Cure hernie inguinale, Cure hernie ombilicaleet Cure éventration paroi abdominale,  Cure hernie hiatale : jusqu’à 240 patients par an
-* Proctologie (hémorroïdes, kyste pilonidal, fistule anale, prolapsus rectal) : jusqu’à 50 patients par an 
-* Intervention d’urgence pour occlusion, péritonite : jusqu’à 20 patients par an 
-* Hépatectomie : jusqu’à 11 patients par an 
-* Appendicectomie : jusqu’à 25 patients par an 
-* Résection de la Thyroïde 
+## Compétences
+### Activités principales
+* Chirurgie coelioscopique (laparoscopique): jusqu’à 90% des opérations de chirurgie abdominale sont réalisées sous coelioscopie et en partie avec le robot da Vinci
+* Chirurgie cancérologique: jusqu’à 90 opérations par an
+* Résection du colon et du rectum: jusqu’à 100 opérations par an
+* Résection de la vésicule biliaire: jusqu’à 120 opérations par an
+* Cure de hernie inguinale, cure de hernie ombilicale , cure d’éventration de la paroi abdominale, cure de hernie hiatale: jusqu’à 240 opérations par an
+* Proctologie (hémorroïdes, kyste pilonidal, fistule anale, prolapsus rectal): jusqu’à 50 interventions par an
+* Interventions d’urgence pour occlusion, péritonite: jusqu’à 20 opérations par an
+* Hépatectomie pour métastases hépatiques: jusqu’à 11 interventions par an
+* Appendicectomie: jusqu’à 25 interventions par an
+* Résection de la thyroïde
 
 <p float="left">
     <img src="./images/inaction/oprobot.jpg" alt="oprobot" width="35%"/>

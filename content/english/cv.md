@@ -2,6 +2,20 @@
 author = "Jacques Kayser"
 +++
 
+## FORMATION MÉDICALE 
+* Cours Universitaires en Médecine, Luxembourg, 1980-1981 
+* Universität des Saarlandes, Homburg /Saar, Allemagne, 1981-1987 
+* Approbation, mai 1987 
+* Promotion (Dr.med.), juin 1989 
+
+## FORMATION CHIRURGICALE 
+* Ancien interne des Hôpitaux de Singen/Hohentwiel (Université de Freiburg, Allemagne) 
+* Ancien interne des Hôpitaux  de Ludwigsburg (Université de Heidelberg, Allemagne)  
+* Ancien interne des Hôpitaux de l’Université Eberhard-Karl de Tübingen, Allemagne 
+* Ancien chef de clinique (Oberarzt) des Hôpitaux de Neuss, Lukaskrankenhaus (Université de Düsseldorf , Allemagne) 
+* Ancien “Senior Registrar” du Queen Elizabeth Hospital, Université d’Adelaide, South Australia, Australia 
+* Depuis le 1er aôut 1998, chirurgien viscéral auprès de la Clinique Ste Thérèse, [Zitha](https://www.hopitauxschuman.lu/fr/etablissement/zithaklinik/), Luxembourg  
+
 <div class="row">
   <div class="column">
     <img src="../images/logos/logo_ukt.gif" width="50%"/>
@@ -27,21 +41,6 @@ author = "Jacques Kayser"
   </div>
 </div>
 
-
-## FORMATION MÉDICALE 
-* Cours Universitaires en Médecine, Luxembourg, 1980-1981 
-* Universität des Saarlandes, Homburg /Saar, Allemagne, 1981-1987 
-* Approbation, mai 1987 
-* Promotion (Dr.med.), juin 1989 
-
-## FORMATION CHIRURGICALE 
-* Ancien interne des Hôpitaux de Singen/Hohentwiel (Université de Freiburg, Allemagne) 
-* Ancien interne des Hôpitaux  de Ludwigsburg (Université de Heidelberg, Allemagne)  
-* Ancien interne des Hôpitaux de l’Université Eberhard-Karl de Tübingen, Allemagne 
-* Ancien chef de clinique (Oberarzt) des Hôpitaux de Neuss, Lukaskrankenhaus (Université de Düsseldorf , Allemagne) 
-* Ancien “Senior Registrar” du Queen Elizabeth Hospital, Université d’Adelaide, South Australia, Australia 
-* Depuis le 1er aôut 1998, chirurgien viscéral auprès de la Clinique Ste Thérèse, [Zitha](https://www.hopitauxschuman.lu/fr/etablissement/zithaklinik/), Luxembourg  
-
 ## TITRES 
 * Promotion (Dr.med.), juin 1989 
 * Certificat de médecin spécialiste en Chirurgie Générale: décembre 1993 
@@ -52,8 +51,8 @@ author = "Jacques Kayser"
 * Maître de stage pour la formation en chirurgie a l'Universite de Louvain (UCL), Belgique 
 * Depuis 2009, Président de la Société de Chirurgie Viscérale Luxembourgeoise 
 
-## LANGUES 
-* Luxembourgeois 
-* Français 
-* Allemand 
-* Anglais 
+## Languages 
+🇱🇺 Luxembourgish \
+🇫🇷 French \
+🇩🇪 German \
+🇬🇧 English 
