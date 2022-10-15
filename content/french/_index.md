@@ -26,3 +26,4 @@ author = "Jacques Kayser"
 * Résection de la thyroïde
 
 {{< figure src="https://www.martinkayser.com/jacqueskayser/images/inaction/oprobot.jpg" alt="image" class="tiny left" >}}
+{{< figure src="https://www.martinkayser.com/jacqueskayser/images/inaction/robot.gif" alt="image" class="tiny right" >}}

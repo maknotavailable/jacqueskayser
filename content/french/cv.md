@@ -51,7 +51,7 @@ author = "Jacques Kayser"
 * Maître de stage pour la formation en chirurgie a l'Universite de Louvain (UCL), Belgique 
 * Depuis 2009, Président de la Société de Chirurgie Viscérale Luxembourgeoise 
 
-{{< figure src="https://www.martinkayser.com/jacqueskayser/images/certificates/robot.jpg" alt="image" class="tiny left" >}}
+{{< figure src="https://www.martinkayser.com/jacqueskayser/images/certificates/robot.jpg" alt="image" class="small" >}}
 
 ## LANGUES 
 🇱🇺 Luxembourgeois \
