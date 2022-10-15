@@ -18,26 +18,26 @@ author = "Jacques Kayser"
 
 <div class="row">
   <div class="column">
-    <img src="../images/logos/logo_ukt.gif" width="50%"/>
+    <img src="https://www.martinkayser.com/jacqueskayser/images/logos/logo_ukt.gif" width="50%"/>
   </div>
   <div class="column">
-    <img src="../images/logos/logo_hrs.jpg" width="50%"/>
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="../images/logos/logo_lukaskrankenhaus.png"  width="50%"/>
-  </div>
-  <div class="column">
-     <img src="../images/logos/logo_klinikum-ludwigsburg.jpg" width="50%"/>
+    <img src="https://www.martinkayser.com/jacqueskayser/images/logos/logo_hrs.jpg" width="50%"/>
   </div>
 </div>
 <div class="row">
   <div class="column">
-     <img src="../images/logos/logo_sahealth.png" width="50%"/>
+    <img src="https://www.martinkayser.com/jacqueskayser/images/logos/logo_lukaskrankenhaus.png"  width="50%"/>
   </div>
   <div class="column">
-     <img src="../images/logos/logo_glk.png" width="50%"/>
+     <img src="https://www.martinkayser.com/jacqueskayser/images/logos/logo_klinikum-ludwigsburg.jpg" width="50%"/>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+     <img src="https://www.martinkayser.com/jacqueskayser/images/logos/logo_sahealth.png" width="50%"/>
+  </div>
+  <div class="column">
+     <img src="https://www.martinkayser.com/jacqueskayser/images/logos/logo_glk.png" width="50%"/>
   </div>
 </div>
 
@@ -50,6 +50,8 @@ author = "Jacques Kayser"
 * Maître de stage pour la formation de médecins généralistes auprès de l’Université de Luxembourg 
 * Maître de stage pour la formation en chirurgie a l'Universite de Louvain (UCL), Belgique 
 * Depuis 2009, Président de la Société de Chirurgie Viscérale Luxembourgeoise 
+
+{{< figure src="https://www.martinkayser.com/jacqueskayser/images/certificates/robot.jpg" alt="image" class="tiny left" >}}
 
 ## Languages 
 🇱🇺 Luxembourgish \

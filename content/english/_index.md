@@ -3,16 +3,16 @@ title = "Home"
 author = "Jacques Kayser"
 +++
 
+## Competences
 <div class="row">
   <div class="column">
-     <img src="./images/inaction/opfull.jpg" alt="opfull" width="100%"/>
+     <img src="https://www.martinkayser.com/jacqueskayser/images/inaction/opfull.jpg" alt="opfull" width="100%"/>
   </div>
   <div class="column">
-    <img src="./images/inaction/opmanual.jpg" alt="opmanual" width="100%"/>
+    <img src="https://www.martinkayser.com/jacqueskayser/images/inaction/opmanual.jpg" alt="opmanual" width="100%"/>
   </div>
 </div>
 
-## Competences
 ### Main activities
 * Laparoscopic surgery : up to 90% of the cases are operated by laparoscopy and partly with the Da Vinci robot
 * Cancer surgery : up to 90 operations per year
@@ -25,6 +25,4 @@ author = "Jacques Kayser"
 * Appendicectomie: up to 25 operations per year
 * Thyroid resection
 
-<p float="left">
-    <img src="./images/inaction/oprobot.jpg" alt="oprobot" width="35%"/>
-</p>
+{{< figure src="https://www.martinkayser.com/jacqueskayser/images/inaction/oprobot.jpg" alt="image" class="tiny left" >}}

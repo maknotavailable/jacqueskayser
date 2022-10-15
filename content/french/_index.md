@@ -3,16 +3,16 @@ title = "Home"
 author = "Jacques Kayser"
 +++
 
+## Compétences
 <div class="row">
   <div class="column">
-     <img src="./images/inaction/opfull.jpg" alt="opfull" width="100%"/>
+     <img src="https://www.martinkayser.com/jacqueskayser/images/inaction/opfull.jpg" alt="opfull" width="100%"/>
   </div>
   <div class="column">
-    <img src="./images/inaction/opmanual.jpg" alt="opmanual" width="100%"/>
+    <img src="https://www.martinkayser.com/jacqueskayser/images/inaction/opmanual.jpg" alt="opmanual" width="100%"/>
   </div>
 </div>
 
-## Compétences
 ### Activités principales
 * Chirurgie coelioscopique (laparoscopique): jusqu’à 90% des opérations de chirurgie abdominale sont réalisées sous coelioscopie et en partie avec le robot da Vinci
 * Chirurgie cancérologique: jusqu’à 90 opérations par an
@@ -25,6 +25,4 @@ author = "Jacques Kayser"
 * Appendicectomie: jusqu’à 25 interventions par an
 * Résection de la thyroïde
 
-<p float="left">
-    <img src="./images/inaction/oprobot.jpg" alt="oprobot" width="35%"/>
-</p>
+{{< figure src="https://www.martinkayser.com/jacqueskayser/images/inaction/oprobot.jpg" alt="image" class="tiny left" >}}
