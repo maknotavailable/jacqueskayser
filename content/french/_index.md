@@ -25,5 +25,11 @@ author = "Jacques Kayser"
 * Appendicectomie: jusqu’à 25 interventions par an
 * Résection de la thyroïde
 
-{{< figure src="https://www.martinkayser.com/jacqueskayser/images/inaction/oprobot.jpg" alt="image" class="tiny left" >}}
-{{< figure src="https://www.martinkayser.com/jacqueskayser/images/inaction/robot.gif" alt="image" class="tiny right" >}}
+<div class="row">
+  <div class="column">
+    {{< figure src="https://www.martinkayser.com/jacqueskayser/images/inaction/robot.gif" alt="image" class="medium" >}}
+  </div>
+  <div class="column">
+     {{< figure src="https://www.martinkayser.com/jacqueskayser/images/inaction/oprobot.jpg" alt="image" class="medium" >}}
+  </div>
+</div>
